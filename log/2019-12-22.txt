@@ -1,0 +1,84 @@
+2019-12-22 03:27:25:[debug] 
+1
+D:\bstest\ErlangPlugin/log/2019-12-22 03:27:25:[debug] 
+123
+D:\bstest\ErlangPlugin/log/2019-12-22 03:27:25:[debug] 
+-export([]).
+
+D:\bstest\ErlangPlugin/log/2019-12-22 03:38:46:[debug] 
+1
+D:\bstest\ErlangPlugin/log/2019-12-22 03:38:46:[debug] 
+
+D:\bstest\ErlangPlugin/log/2019-12-22 03:38:46:[debug] 
+-export([]).
+
+D:\bstest\ErlangPlugin/log/2019-12-22 04:27:15:[debug] 
+1
+D:\bstest\ErlangPlugin/log/2019-12-22 04:27:15:[debug] 
+aa => bb
+D:\bstest\ErlangPlugin/log/2019-12-22 04:27:15:[debug] 
+-export([]).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+
+
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:31:[debug] 
+1
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:31:[debug] 
+aa => bb
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:31:[debug] 
+-export([get_aa/1]).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+
+
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:40:[debug] 
+1
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:40:[debug] 
+aa => bb
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:40:[debug] 
+-export([]).
+priv_get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+
+
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:52:[debug] 
+2
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:52:[debug] 
+aa => bb
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:52:[debug] 
+bb => sa
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:52:[debug] 
+-export([, ]).
+priv_get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+
+priv_set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+
+priv_get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+
+priv_set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+
+
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:57:[debug] 
+2
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:57:[debug] 
+aa => bb
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:57:[debug] 
+bb => sa
+D:\bstest\ErlangPlugin/log/2019-12-22 04:28:57:[debug] 
+-export([, ]).
+priv_get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+
+priv_get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+
+
+D:\bstest\ErlangPlugin/log/

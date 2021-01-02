@@ -1,0 +1,738 @@
+2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+5
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+aa => 1
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+bb => 2
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+cc => 5
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+ 
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+dd => asd
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+ ee => asd
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+ 1
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+ 2
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+ 5
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+ asd
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+ asd
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+男哥
+D:\bstest\ErlangPlugin\log\2019-10-25 09:31:19:[debug] 
+java.awt.EventDispatchThread file:EventDispatchThread.java line:116 Method:pumpEventsForFilter
+java.awt.EventDispatchThread file:EventDispatchThread.java line:105 Method:pumpEventsForHierarchy
+java.awt.EventDispatchThread file:EventDispatchThread.java line:101 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:93 Method:pumpEvents
+java.awt.EventDispatchThread file:EventDispatchThread.java line:82 Method:run
+男哥
+D:\bstest\ErlangPlugin\log\2019-10-25 09:46:03:[debug] 
+5
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+aa => 1
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+bb => 2
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+cc => 5
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+ 
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+dd => 6
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+ee => 7
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+ 1
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+ 2
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+ 5
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+ 6
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+ 7
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+-export([set_ 1/1,set_ 1/2,set_ 2/1,set_ 2/2,set_ 5/1,set_ 5/2,set_ 6/1,set_ 6/2,get_ 7/1,set_ 7/2,])
+get_ 1(ItemMap) ->
+  utils_map:get_value( 1, ItemMap).
+set_ 1(Value, ItemMap) ->
+  utils_map:put( 1, Value, ItemMap).
+get_ 2(ItemMap) ->
+  utils_map:get_value( 2, ItemMap).
+set_ 2(Value, ItemMap) ->
+  utils_map:put( 2, Value, ItemMap).
+get_ 5(ItemMap) ->
+  utils_map:get_value( 5, ItemMap).
+set_ 5(Value, ItemMap) ->
+  utils_map:put( 5, Value, ItemMap).
+get_ 6(ItemMap) ->
+  utils_map:get_value( 6, ItemMap).
+set_ 6(Value, ItemMap) ->
+  utils_map:put( 6, Value, ItemMap).
+get_ 7(ItemMap) ->
+  utils_map:get_value( 7, ItemMap).
+set_ 7(Value, ItemMap) ->
+  utils_map:put( 7, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 09:46:03:[debug] 
+-export([set_ 1/1,set_ 1/2,set_ 2/1,set_ 2/2,set_ 5/1,set_ 5/2,set_ 6/1,set_ 6/2,get_ 7/1,set_ 7/2,])
+get_ 1(ItemMap) ->
+  utils_map:get_value( 1, ItemMap).
+set_ 1(Value, ItemMap) ->
+  utils_map:put( 1, Value, ItemMap).
+get_ 2(ItemMap) ->
+  utils_map:get_value( 2, ItemMap).
+set_ 2(Value, ItemMap) ->
+  utils_map:put( 2, Value, ItemMap).
+get_ 5(ItemMap) ->
+  utils_map:get_value( 5, ItemMap).
+set_ 5(Value, ItemMap) ->
+  utils_map:put( 5, Value, ItemMap).
+get_ 6(ItemMap) ->
+  utils_map:get_value( 6, ItemMap).
+set_ 6(Value, ItemMap) ->
+  utils_map:put( 6, Value, ItemMap).
+get_ 7(ItemMap) ->
+  utils_map:get_value( 7, ItemMap).
+set_ 7(Value, ItemMap) ->
+  utils_map:put( 7, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+5
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+aa => 1
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+bb => 2
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+cc => 5
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+ 
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+dd => 6
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+ee => 7
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+aa
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+bb
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+cc
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+dd
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+ee
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+-export([set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,get_ee/1,set_ee/2])
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 09:52:25:[debug] 
+-export([set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,get_ee/1,set_ee/2])
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+6
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+"qq" => dd
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+aa => 1
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+bb => 2
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+cc => 5
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+ 
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+dd => 6
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+ee => 7
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+"qq"
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+aa
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+bb
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+cc
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+dd
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+ee
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+-export([set_"qq"/1,set_"qq"/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,get_ee/1,set_ee/2])
+get_"qq"(ItemMap) ->
+  utils_map:get_value("qq", ItemMap).
+set_"qq"(Value, ItemMap) ->
+  utils_map:put("qq", Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 09:52:53:[debug] 
+-export([set_"qq"/1,set_"qq"/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,get_ee/1,set_ee/2])
+get_"qq"(ItemMap) ->
+  utils_map:get_value("qq", ItemMap).
+set_"qq"(Value, ItemMap) ->
+  utils_map:put("qq", Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+6
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+"qq" => ss
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+aa => 1
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+bb => 2
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+cc => 5
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+ 
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+dd => 6
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+ee => 7
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+qq
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+aa
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+bb
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+cc
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+dd
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+ee
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+-export([set_qq/1,set_qq/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,get_ee/1,set_ee/2])
+get_qq(ItemMap) ->
+  utils_map:get_value(qq, ItemMap).
+set_qq(Value, ItemMap) ->
+  utils_map:put(qq, Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 09:54:50:[debug] 
+-export([set_qq/1,set_qq/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,get_ee/1,set_ee/2])
+get_qq(ItemMap) ->
+  utils_map:get_value(qq, ItemMap).
+set_qq(Value, ItemMap) ->
+  utils_map:put(qq, Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+18
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+"qq" => ss
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+aa => 1
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+bb => 2
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+cc => 5
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+ 
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+dd => 6
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+ee => 7
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+"qq" => ss
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+aa => 1
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+bb => 2
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+cc => 5
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+ 
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+dd => 6
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+ee => 7
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+"qq" => ss
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+aa => 1
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+bb => 2
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+cc => 5
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+ 
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+dd => 6
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+ee => 7
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+qq
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+aa
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+bb
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+cc
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+dd
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+ee
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+qq
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+aa
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+bb
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+cc
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+dd
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+ee
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+qq
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+aa
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+bb
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+cc
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+dd
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+ee
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+-export([set_qq/1,set_qq/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,set_ee/1,set_ee/2,set_qq/1,set_qq/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,set_ee/1,set_ee/2,set_qq/1,set_qq/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,get_ee/1,set_ee/2])
+get_qq(ItemMap) ->
+  utils_map:get_value(qq, ItemMap).
+set_qq(Value, ItemMap) ->
+  utils_map:put(qq, Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+get_qq(ItemMap) ->
+  utils_map:get_value(qq, ItemMap).
+set_qq(Value, ItemMap) ->
+  utils_map:put(qq, Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+get_qq(ItemMap) ->
+  utils_map:get_value(qq, ItemMap).
+set_qq(Value, ItemMap) ->
+  utils_map:put(qq, Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 09:55:10:[debug] 
+-export([set_qq/1,set_qq/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,set_ee/1,set_ee/2,set_qq/1,set_qq/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,set_ee/1,set_ee/2,set_qq/1,set_qq/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,get_ee/1,set_ee/2])
+get_qq(ItemMap) ->
+  utils_map:get_value(qq, ItemMap).
+set_qq(Value, ItemMap) ->
+  utils_map:put(qq, Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+get_qq(ItemMap) ->
+  utils_map:get_value(qq, ItemMap).
+set_qq(Value, ItemMap) ->
+  utils_map:put(qq, Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+get_qq(ItemMap) ->
+  utils_map:get_value(qq, ItemMap).
+set_qq(Value, ItemMap) ->
+  utils_map:put(qq, Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+6
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+"qq" => ss
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+aa => 1
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+bb => 2
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+cc => 5
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+ 
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+dd => 6
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+ee => 7
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+qq
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+aa
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+bb
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+cc
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+dd
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+ee
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+-export([set_qq/1,set_qq/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,get_ee/1,set_ee/2])
+get_qq(ItemMap) ->
+  utils_map:get_value(qq, ItemMap).
+set_qq(Value, ItemMap) ->
+  utils_map:put(qq, Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/2019-10-25 10:15:34:[debug] 
+-export([set_qq/1,set_qq/2,set_aa/1,set_aa/2,set_bb/1,set_bb/2,set_cc/1,set_cc/2,set_dd/1,set_dd/2,get_ee/1,set_ee/2])
+get_qq(ItemMap) ->
+  utils_map:get_value(qq, ItemMap).
+set_qq(Value, ItemMap) ->
+  utils_map:put(qq, Value, ItemMap).
+get_aa(ItemMap) ->
+  utils_map:get_value(aa, ItemMap).
+set_aa(Value, ItemMap) ->
+  utils_map:put(aa, Value, ItemMap).
+get_bb(ItemMap) ->
+  utils_map:get_value(bb, ItemMap).
+set_bb(Value, ItemMap) ->
+  utils_map:put(bb, Value, ItemMap).
+get_cc(ItemMap) ->
+  utils_map:get_value(cc, ItemMap).
+set_cc(Value, ItemMap) ->
+  utils_map:put(cc, Value, ItemMap).
+get_dd(ItemMap) ->
+  utils_map:get_value(dd, ItemMap).
+set_dd(Value, ItemMap) ->
+  utils_map:put(dd, Value, ItemMap).
+get_ee(ItemMap) ->
+  utils_map:get_value(ee, ItemMap).
+set_ee(Value, ItemMap) ->
+  utils_map:put(ee, Value, ItemMap).
+
+C:\Users\tl\Desktop/log/

@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94583cc4-41be-42b7-a9e3-49f09e331136" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="813972658">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="64" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="6" />
+          <entry key="project.open.time.17" value="5" />
+          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.19" value="5" />
+          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.21" value="4" />
+          <entry key="project.open.time.22" value="10" />
+          <entry key="project.open.time.23" value="5" />
+          <entry key="project.open.time.24" value="4" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="4" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.opened" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="33" />
+          <entry key="erl" value="4" />
+          <entry key="form" value="21" />
+          <entry key="java" value="153" />
+          <entry key="test" value="3" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="33" />
+          <entry key="Erlang" value="4" />
+          <entry key="GUI_DESIGNER_FORM" value="21" />
+          <entry key="JAVA" value="153" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="dummy" value="10" />
+          <entry key="erl" value="253" />
+          <entry key="java" value="16547" />
+          <entry key="test" value="76" />
+          <entry key="xml" value="254" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Erlang" value="253" />
+          <entry key="JAVA" value="16547" />
+          <entry key="PLAIN_TEXT" value="86" />
+          <entry key="XML" value="254" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/lexer/lexer_utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/lexer-1.0.1.jar!/io/github/tdf4j/lexer/SymbolListenerImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/lexer/aaa.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/lexer-1.0.1.jar!/io/github/tdf4j/lexer/LexerImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/tl/offic/jdk/jdk/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/parser/Lexer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18163">
+              <caret line="52" column="16" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/lexer-1.0.1.jar!/io/github/tdf4j/lexer/Lexer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LexerAbstractModule.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LexerBindingMapper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LexerBindMethods.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LexerJsonModule.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LexerXmlModule.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/Module.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/lexer-1.0.1.jar!/io/github/tdf4j/lexer/UnexpectedSymbolException.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/BindStrategy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/EnvironmentBindStrategy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LetterBindStrategy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Action" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.codeGen</find>
+      <find>setTitle</find>
+      <find>codeGenInputDir</find>
+      <find>CustomEditorIllustration</find>
+      <find>copyFile</find>
+      <find>Stream</find>
+      <find>stream</find>
+      <find>开</find>
+      <find>showMessageDialog</find>
+      <find>getInformationIcon</find>
+      <find>groups</find>
+      <find>contain</find>
+      <find>system</find>
+      <find>getModName</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/CheckTwoListHelp.java" />
+        <option value="$PROJECT_DIR$/src/test/Test2.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/server/checkcirculateservice.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/pojo/ModContact.java" />
+        <option value="$PROJECT_DIR$/src/test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/pojo/ModLink.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/handle/checkCirculate.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/server/Checkcirculateservice.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/pojo/ModAndMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/utils/log/LogConst.java" />
+        <option value="$PROJECT_DIR$/src/com/utils/log/service/LogService.java" />
+        <option value="$PROJECT_DIR$/src/com/utils/log/other/MyTime.java" />
+        <option value="$PROJECT_DIR$/src/com/utils/log/handle/Log.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/CheckTwoList.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/handle/CheckCirculate.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/moduelset/setHelper/getAndSet.java" />
+        <option value="$PROJECT_DIR$/src/com/utils/log/other/WriteLog.java" />
+        <option value="$PROJECT_DIR$/src/com/text/test" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/moduleset/ModuleSetForm.form" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/moduelset/action/ModuleSetAction.java" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/moduleset/ModuleSetForm.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/moduelset/setHelper/GetAndSet.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/winCmd/TestBatCmd.java" />
+        <option value="$PROJECT_DIR$/src/com/erlangComponent/BatCmdComponentImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/erlangComponent/batCmdComponent/BatCmdComponent.java" />
+        <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/com/utils/log/other/LogConst.java" />
+        <option value="$PROJECT_DIR$/src/com/erlangComponent/batCmdComponent/BatCmdComponentImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/winBat/WinBatFrom.form" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/winBat/WinBatFrom.java" />
+        <option value="$PROJECT_DIR$/src/com/fromGui/winBat/WinBatForm.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/winCmd/WinCmdAction.java" />
+        <option value="$PROJECT_DIR$/src/com/base/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/codeGenHelper/CodeGenHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/MyReplace.java" />
+        <option value="$PROJECT_DIR$/src/com/codeGen/base/TempCodeGener.java" />
+        <option value="$PROJECT_DIR$/src/com/codeGen/base/BSCodeGener.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkRepeatFile/CheckRepeatFileName.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/help/chinesePojo.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/utils/FilterFiles.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/help/chineseFile.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/findChinese.java" />
+        <option value="$PROJECT_DIR$/src/test/erlang/aaa.erl" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/help/ChinesePojo.java" />
+        <option value="$PROJECT_DIR$/src/test/erlang/bbb.erl" />
+        <option value="$PROJECT_DIR$/src/test/erlang/sys_aaa.erl" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/Regular.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/help/ChineseFile.java" />
+        <option value="$PROJECT_DIR$/src/com/myerlangplugin/findChinese/FindChinese.java" />
+        <option value="$PROJECT_DIR$/src/test/lexer/aaa.erl" />
+        <option value="$PROJECT_DIR$/src/test/lexer/lexer_utils.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/软件/mavn/maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\软件\mavn\maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="15" />
+    <option name="width" value="1835" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErlangPlugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErlangPlugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="lexer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="PsiIfStatement&#9;PSI&#9;JAVA://com.intellij.psi.PsiIfStatement&#10;utils&#9;FILE&#9;file://D:/bstest/ErlangPlugin/src/com/base/FileUtils.java&#10;Matcher&#9;null&#9;null&#10;File&#9;PSI&#9;JAVA://com.base.FileUtils" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="right" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="110" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607849889891" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib/jar_files.zip!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.19770116" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\bstest\ErlangPlugin\src\lib" />
+      <recent name="D:\bstest\ErlangPlugin\src\test" />
+      <recent name="D:\bstest\ErlangPlugin\src\com\text" />
+      <recent name="D:\bstest\ErlangPlugin\src\com\myerlangplugin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FindChinese">
+    <configuration name="FindChinese" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myerlangplugin.findChinese.FindChinese" />
+      <module name="ErlangPlugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myerlangplugin.findChinese.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModuleSetAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myerlangplugin.moduelset.action.ModuleSetAction" />
+      <module name="ErlangPlugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myerlangplugin.moduelset.action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myerlangplugin.MyReplace" />
+      <module name="ErlangPlugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myerlangplugin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Regular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myerlangplugin.ckecktwolist.Regular" />
+      <module name="ErlangPlugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myerlangplugin.ckecktwolist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utils.log.other.WriteLog" />
+      <module name="ErlangPlugin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utils.log.other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="ErlangPlugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="ErlangPlugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Plugin.Plugin" />
+      <item itemvalue="Application.WriteLog" />
+      <item itemvalue="Application.ModuleSetAction" />
+      <item itemvalue="Application.MyReplace" />
+      <item itemvalue="Application.Regular" />
+      <item itemvalue="Application.FindChinese" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindChinese" />
+        <item itemvalue="Application.Regular" />
+        <item itemvalue="Application.MyReplace" />
+        <item itemvalue="Application.ModuleSetAction" />
+        <item itemvalue="Application.WriteLog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\tl\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94583cc4-41be-42b7-a9e3-49f09e331136" name="Default Changelist" comment="" />
+      <created>1561276874542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561276874542</updated>
+      <workItem from="1561276879715" duration="10568000" />
+      <workItem from="1561290191618" duration="122000" />
+      <workItem from="1561290358942" duration="328000" />
+      <workItem from="1561290734837" duration="72000" />
+      <workItem from="1561290850618" duration="467000" />
+      <workItem from="1561291361049" duration="1331000" />
+      <workItem from="1561292737430" duration="2588000" />
+      <workItem from="1561295380067" duration="39000" />
+      <workItem from="1561882699910" duration="2879000" />
+      <workItem from="1561886243078" duration="2176000" />
+      <workItem from="1561889397998" duration="252000" />
+      <workItem from="1561889705153" duration="327000" />
+      <workItem from="1561890084448" duration="893000" />
+      <workItem from="1561891025445" duration="3003000" />
+      <workItem from="1561895720595" duration="1319000" />
+      <workItem from="1562498574128" duration="3058000" />
+      <workItem from="1562501695576" duration="228000" />
+      <workItem from="1562501979080" duration="648000" />
+      <workItem from="1563102611750" duration="3072000" />
+      <workItem from="1563105742323" duration="546000" />
+      <workItem from="1563106336243" duration="1221000" />
+      <workItem from="1563107605541" duration="534000" />
+      <workItem from="1563108186043" duration="757000" />
+      <workItem from="1564295198982" duration="8268000" />
+      <workItem from="1564303846620" duration="376000" />
+      <workItem from="1564304262058" duration="821000" />
+      <workItem from="1564305132439" duration="219000" />
+      <workItem from="1564305402463" duration="1165000" />
+      <workItem from="1564885280227" duration="879000" />
+      <workItem from="1564886465790" duration="2003000" />
+      <workItem from="1564896372526" duration="12951000" />
+      <workItem from="1564921542977" duration="314000" />
+      <workItem from="1564921893554" duration="500000" />
+      <workItem from="1564922428105" duration="390000" />
+      <workItem from="1564922855568" duration="297000" />
+      <workItem from="1564923188989" duration="2344000" />
+      <workItem from="1564925569276" duration="331000" />
+      <workItem from="1566103744324" duration="8259000" />
+      <workItem from="1566706816290" duration="28383000" />
+      <workItem from="1566735840471" duration="126000" />
+      <workItem from="1567930349369" duration="7275000" />
+      <workItem from="1567949377154" duration="206000" />
+      <workItem from="1567949626984" duration="274000" />
+      <workItem from="1568361510351" duration="621000" />
+      <workItem from="1570889398951" duration="42000" />
+      <workItem from="1572005581240" duration="1625000" />
+      <workItem from="1572007255274" duration="1889000" />
+      <workItem from="1572009186117" duration="789000" />
+      <workItem from="1572010017018" duration="1035000" />
+      <workItem from="1572011092500" duration="344000" />
+      <workItem from="1572011472522" duration="147000" />
+      <workItem from="1572011655858" duration="1215000" />
+      <workItem from="1572012913304" duration="56000" />
+      <workItem from="1572013038484" duration="61000" />
+      <workItem from="1572053682966" duration="407000" />
+      <workItem from="1573365787233" duration="1885000" />
+      <workItem from="1573386365135" duration="269000" />
+      <workItem from="1573386680590" duration="128000" />
+      <workItem from="1573386853888" duration="286000" />
+      <workItem from="1573387184167" duration="599000" />
+      <workItem from="1576995567926" duration="6181000" />
+      <workItem from="1577012090193" duration="121000" />
+      <workItem from="1587280159888" duration="4258000" />
+      <workItem from="1587286006813" duration="5415000" />
+      <workItem from="1588338441535" duration="570000" />
+      <workItem from="1596026621394" duration="10238000" />
+      <workItem from="1597934381724" duration="223000" />
+      <workItem from="1599373671259" duration="7026000" />
+      <workItem from="1599394234126" duration="2064000" />
+      <workItem from="1599399706885" duration="1067000" />
+      <workItem from="1607845763127" duration="3391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="163640000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="44" y="12" width="1468" height="784" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31631204" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49804688" weight="0.20367534" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29402757" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32884902" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20061256" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5019531" side_tool="true" weight="0.35567716" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.29862174" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="JSF" order="0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="CDI" order="2" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" x="733" y="135" width="691" height="585" id="Palette" order="5" type="WINDOWED" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="11" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/fromGui/winBat/WinBatForm.form" />
+    <entry file="file://$PROJECT_DIR$/src/com/utils/log/other/LogConst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/erlangComponent/batCmdComponent/BatCmdComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/erlangComponent/batCmdComponent/BatCmdComponentImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fromGui/winBat/WinBatForm.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/fromGui/ReplaceForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="85" column="25" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/winCmd/TestBatCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/text/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/text/text1/text">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/tl/offic/jdk/jdk/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="492" column="9" selection-start-line="492" selection-start-column="9" selection-end-line="492" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/tl/offic/jdk/jdk/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="1384" column="19" selection-start-line="1384" selection-start-column="19" selection-end-line="1384" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/tl/offic/jdk/jdk/src.zip!/java/lang/NullPointerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codeGenHelper/CodeGenHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codeGen/base/TempCodeGener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2466">
+          <caret line="142" column="9" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/winCmd/WinCmdAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="43" column="60" selection-start-line="43" selection-start-column="60" selection-end-line="43" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codeGen/base/BSCodeGener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/moduelset/setHelper/GetAndSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2322">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/moduelset/action/ModuleSetAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/tl/offic/jdk/jdk/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="621" column="19" selection-start-line="621" selection-start-column="19" selection-end-line="621" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/erlang/bbb.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/erlang/sys_aaa.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/findChinese/FindChinese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/utils/log/other/WriteLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="45" column="54" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/erlang/aaa.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/utils/FilterFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/server/Checkcirculateservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/checkcirculate/handle/CheckCirculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="32" selection-start-line="32" selection-end-line="32" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/base/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6318">
+          <caret line="360" column="42" selection-start-line="360" selection-start-column="42" selection-end-line="360" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/findChinese/help/ChineseFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/findChinese/help/ChinesePojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/checkRepeatFile/CheckRepeatFileName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/Regular.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="34" column="71" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/ckecktwolist/CheckTwoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/myerlangplugin/MyReplace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/tl/offic/jdk/jdk/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/parser/Lexer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18163">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/lexer/aaa.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/BindStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/EnvironmentBindStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LetterBindStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LexerAbstractModule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LexerBindingMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LexerBindMethods.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LexerJsonModule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/LexerXmlModule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/core-1.0.1.jar!/io/github/tdf4j/core/module/Module.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/lexer-1.0.1.jar!/io/github/tdf4j/lexer/UnexpectedSymbolException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/lexer/lexer_utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/lexer-1.0.1.jar!/io/github/tdf4j/lexer/Lexer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/lexer-1.0.1.jar!/io/github/tdf4j/lexer/LexerImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/jar_files/lexer-1.0.1.jar!/io/github/tdf4j/lexer/SymbolListenerImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ErlangPlugin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jar_files</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19770116" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

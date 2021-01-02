@@ -1,0 +1,5 @@
+2020-12-13 03:49:05:[debug] 
+BatCmdComponentImpl 构造
+C:\Users\tl\Desktop/log/2020-12-13 03:49:05:[debug] 
+BatCmdComponentImpl init
+C:\Users\tl\Desktop/log/
